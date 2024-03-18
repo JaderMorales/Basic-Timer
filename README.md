@@ -4,7 +4,7 @@
 Basic timer with simple design developed in html, css and js.
  
 
-[Try the calculator by click here](HTTPS://jadermorales.github.io/Basic-Timer/)
+[Try the timer by click here](HTTPS://jadermorales.github.io/Basic-Timer/)
 # Technologies used
 
 <p align="left">
